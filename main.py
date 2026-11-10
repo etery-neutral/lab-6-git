@@ -3,3 +3,4 @@ print('Hello, Git')
 ошибочно
 def new_function():
     pass
+rebase 1
