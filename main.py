@@ -4,3 +4,4 @@ print('Hello, Git')
 def new_function():
     pass
 rebase 1
+rebase 2
